@@ -151,7 +151,7 @@ export const collections: Collection[] = [
     description: 'Complete wedding stationery suites and sets.',
     thumbnail: 'https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=800&q=80',
     productCount: 3,
-  },
+  }, 
   {
     id: 'col-10',
     title: 'Logo Design',
